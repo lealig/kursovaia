@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="busCheb" Height="450" Width="800" MinHeight="300" MinWidth="500" Opacity="10" Icon="img/icon.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="23*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="66"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/img/fon.png" Grid.ColumnSpan="2" Grid.RowSpan="2" Stretch="UniformToFill"/>
+        <Border Background="#7FFFFFFF" CornerRadius="5" Margin="10,6,10,0" Width="auto" VerticalAlignment="Center" Height="40" RenderTransformOrigin="0.503,0.553" />
+
+        <Label Content="Остановка:" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Center" FontSize="20" Height="36" Width="111"/>
+        <TextBox x:Name="textBox1" Height="30" Width="auto" Margin="122,6,14,0" TextWrapping="Wrap" Text="Поиск" VerticalAlignment="Center" FontSize="20" TextChanged="TextBox_TextChanged" PreviewMouseDown="textBox1_PreviewMouseDown">
+            <TextBox.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+
+        <ListBox x:Name="stationsBox" FontSize="16" FontFamily="Calibri"
+                  Height="auto" Width="auto" SelectionChanged="stationsBox_Selected" Grid.Row="1" Margin="10,7,10,11" RenderTransformOrigin="0.5,0.5" Background="#7FFFFFFF" Foreground="Black" BorderBrush="#7FFFFFFF">
+            <ListBox.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </ListBox.Resources>
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <DataGrid x:Name="busInfo" IsReadOnly="True" Height="auto" Width="auto" d:ItemsSource="{d:SampleData ItemCount=3}" Background="#7FFFFFFF"
+                  Grid.Column="1" ColumnWidth="140" GridLinesVisibility="None" SelectionMode="Single" Margin="10,16,10,10" Grid.RowSpan="2" BorderBrush="#7FFFFFFF">
+            <DataGrid.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,283 @@
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.dll
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.xml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csprojAssemblyReference.cache
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\App.g.cs
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.baml
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CopyComplete
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.exe
+H:\Мои документы\рпм 3 курс\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.dll
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.xml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csprojAssemblyReference.cache
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\App.g.cs
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.baml
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CopyComplete
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.dll
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.xml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.AssemblyReference.cache
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\App.g.cs
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.baml
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_.5BD3EAFC.Up2Date
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.exe
+E:\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\RestSharp.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Text.Json.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.AssemblyReference.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\busCheb_.5BD3EAFC.Up2Date
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe.config
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.pdb
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Memory.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Json.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.ValueTuple.dll
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Memory.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Json.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.ValueTuple.xml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.AssemblyReference.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.g.cs
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\App.g.cs
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.lref
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.baml
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.g.resources
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.Properties.Resources.resources
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_.5BD3EAFC.Up2Date
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.exe
+C:\Users\dubro\Desktop\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.pdb
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe.config
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.pdb
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.EF6.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Memory.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Numerics.Vectors.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Encodings.Web.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.ValueTuple.dll
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Json.xml
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.AssemblyReference.cache
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.g.cs
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\App.g.cs
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.cache
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.lref
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.baml
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.g.resources
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.Properties.Resources.resources
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_.5BD3EAFC.Up2Date
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.exe
+E:\курсовая\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.pdb
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe.config
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.exe
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\busCheb.pdb
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Memory.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.ValueTuple.dll
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\RestSharp.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Buffers.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Data.SQLite.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Text.Json.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\bin\Debug\System.ValueTuple.xml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.AssemblyReference.cache
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.g.cs
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\App.g.cs
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.cache
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_MarkupCompile.lref
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\MainWindow.baml
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.g.resources
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.Properties.Resources.resources
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.GenerateResource.cache
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_oldNetF.csproj.CoreCompileInputs.cache
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb_.5BD3EAFC.Up2Date
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.exe
+C:\Users\dubro\Desktop\busCheb_Net4.7.2\busCheb\obj\Debug\busCheb.pdb
